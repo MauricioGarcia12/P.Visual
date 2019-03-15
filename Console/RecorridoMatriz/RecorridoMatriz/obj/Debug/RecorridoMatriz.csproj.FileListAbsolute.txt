@@ -1,0 +1,7 @@
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csprojAssemblyReference.cache
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+C:\Users\hp.DESKTOP-8NN75ES\P.Visual\Console\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb

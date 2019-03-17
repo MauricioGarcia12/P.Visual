@@ -14,21 +14,20 @@ namespace RecorridoMatriz
                                          {4,7,9,7},
                                          {2,6,5,2},
                                          {2,4,5,2}};
-            int num=3;
-
-            for(int y = 0; y <array.Length; y++)
+            int pos = 3;
+            for(int y = 0; y <4; y++)
             {
-                for(int x = 0; x <array.Length; x++)
+                for (int x = 0; x < 4; x++)
                 {
                     if (y % 2 == 0)
                     {
-                        num = array[x, y];
-                        Console.WriteLine(num);
+                       int num = array[x, y];
+                        Console.Write(num +" ");
                     }
-                    else
+                    else 
                     {
-                        num = array[num- x, y];
-                        Console.WriteLine(num);
+                        int num = array[pos- x, y];
+                        Console.Write(num+" ");
                     }
                 }
             }
